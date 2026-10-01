@@ -1,0 +1,48 @@
+EMPLOYEE ATTRITION BUSINESS INSIGHTS
+======================================================================
+
+Total Employees : 1470
+Employees Stayed : 1233
+Employees Left : 237
+Attrition Rate : 16.12%
+
+Department-wise Attrition
+Department
+Research & Development    133
+Sales                      92
+Human Resources            12
+dtype: int64
+
+Top Job Roles with Attrition
+JobRole
+Laboratory Technician        62
+Sales Executive              57
+Research Scientist           47
+Sales Representative         33
+Human Resources              12
+Manufacturing Director       10
+Healthcare Representative     9
+Manager                       5
+Research Director             2
+dtype: int64
+
+OverTime Analysis
+Attrition   No  Yes
+OverTime           
+No         944  110
+Yes        289  127
+
+Average Monthly Income by Department
+Department
+Human Resources           6654.51
+Research & Development    6281.25
+Sales                     6959.17
+Name: MonthlyIncome, dtype: float64
+
+========== HR RECOMMENDATIONS ==========
+
+1. Reduce excessive overtime where possible.
+2. Improve employee engagement in high-attrition departments.
+3. Focus retention strategies on high-risk job roles.
+4. Strengthen work-life balance initiatives.
+5. Review compensation and career growth opportunities.
