@@ -1,0 +1,24 @@
+2026-08-04 10:23:11,861 | INFO | Streamlit application started successfully.
+2026-08-04 10:23:11,865 | INFO | Streamlit application started successfully.
+2026-08-06 09:12:03,986 | INFO | Raw dataset loaded successfully.
+2026-08-06 09:12:04,887 | INFO | Phase 2 - Data Loading completed successfully.
+2026-08-06 09:13:40,525 | INFO | Raw dataset loaded successfully.
+2026-08-06 09:13:40,624 | INFO | Clean dataset saved successfully.
+2026-08-06 09:13:40,625 | INFO | Data cleaning completed successfully.
+2026-08-06 09:16:08,075 | INFO | Clean dataset loaded successfully.
+2026-08-06 09:16:08,316 | INFO | Correlation matrix saved successfully.
+2026-08-06 09:16:08,317 | INFO | Exploratory Data Analysis completed successfully.
+2026-08-06 09:21:23,266 | INFO | Clean dataset loaded successfully.
+2026-08-06 09:21:23,268 | INFO | Features and target variable separated.
+2026-08-06 09:21:23,350 | INFO | Preprocessor and Label Encoder loaded.
+2026-08-06 09:21:23,366 | INFO | Train-Test split completed.
+2026-08-06 09:21:23,492 | INFO | Logistic Regression Accuracy : 0.8605
+2026-08-06 09:21:23,566 | INFO | Decision Tree Accuracy : 0.7687
+2026-08-06 09:21:23,996 | INFO | Random Forest Accuracy : 0.8401
+2026-08-06 09:21:24,617 | INFO | Gradient Boosting Accuracy : 0.8571
+2026-08-06 09:21:24,622 | INFO | Best Model Saved : Logistic Regression
+2026-08-06 09:21:24,624 | INFO | Model Training Completed Successfully.
+2026-08-06 09:22:28,570 | INFO | Clean dataset loaded successfully.
+2026-08-06 09:22:28,691 | INFO | Best model and label encoder loaded.
+2026-08-06 09:22:28,766 | INFO | Prediction completed successfully.
+2026-08-06 09:22:28,813 | INFO | Model evaluation report saved successfully.
